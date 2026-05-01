@@ -24,7 +24,7 @@ Saves results to a text file
 
 Clone the repository:
 
-git clone https://github.com/your-username/port-scanner.git
+git clone https://github.com/Esma-sismann/port-scanner.git
 cd port-scanner
 ▶️ Usage
 
